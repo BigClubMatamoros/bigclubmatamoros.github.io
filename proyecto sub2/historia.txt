@@ -1,0 +1,39 @@
+<html>
+	<head>
+		<title>Big Club-Historia</title>
+		<link rel="shortcut icon" href="bigclublogo.png">
+	</head>
+	<body bgcolor="#151515">
+			<center>
+				<img src= bigclublogo.png width="200" height="200"
+			</center>
+			<h1 aling="center">
+				<font color="#FFFFFF" size="6" face="tahoma">
+					Nuestra historia
+				</font>
+			</h1>
+			<hr>
+			
+			<br>
+			<br>
+			<center>
+				<A href="principal.html">
+					<img src=bigclublocal.jfif width="120" height="150"
+				</A>
+			</center>
+			<br>
+			<br>
+			<p aling="center">
+				<font color="FFFFFF" size="1" face="tahoma">
+					<b><i>
+					&copy; 2022. derechos reservados. <br>
+					Desarrollado por: Grisel Jazmin Solano Perez <br>
+					Matricula: 01
+					Grupo: 604 <br>
+					Plantel Nueva Tijuana
+					</b></i>
+				</font>
+			</p>
+			</hr>
+	</body>
+</html>
